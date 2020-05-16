@@ -7,3 +7,7 @@
 Is a flutter imc calculator
 
 # Demo Video
+
+<h1 align="center">
+  <img src="./imc.gif" width="250" />
+</h1>
